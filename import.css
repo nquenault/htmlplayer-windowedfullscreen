@@ -12,3 +12,7 @@ iframe:first-child {
 html, body {  
   overflow: hidden;
 }
+
+header {
+  display: none;
+}
